@@ -5,9 +5,6 @@ The user selects the place from a list and views the time of that place.
 
 ## Setup
 To run this project:
-'''
 
-$ cd worldtime
-$ flutter run
-
-'''
+'cd worldtime'
+'flutter run'
